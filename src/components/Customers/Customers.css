@@ -1,0 +1,90 @@
+
+
+.main-customer{
+
+    width: 1600px;
+    height: 718px;
+    top: 3146px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+
+}
+    .Button01 {
+        width: 300px;
+    }
+
+   .CustomerPrice{
+       height: 450px;
+       margin-top: 400px;
+     }
+
+     .CustomerPriceHeading h1{
+         font-family: Space Grotesk;
+         font-size: 40px;
+         font-weight: 700;
+         line-height: 56px;
+         letter-spacing: -1px;
+         text-align: center;     
+     }
+     
+     .CustomerPriceHeading p{
+         font-family: Inter;
+         font-size: 28px;
+         font-weight: 400;
+         line-height: 34px;
+         text-align: center;
+           
+     }
+     .PriceCard{
+        margin-top: 50px;
+         width: 300px;
+         height: 300px;
+         gap: 0px;
+         border-radius: 5px 0px 0px 0px;
+         border: 1px 0px 0px 0px;
+         opacity: 0px;
+         
+     }
+     .PriceCard:hover{
+         transform: translateY(-10px);
+         transition: 0.8s ease all;
+         border: 1px solid orangered;
+         overlay: 5px -5px rgba(0, 0, 0, 128);
+        
+     }
+     
+     .CardHed{
+         font-family: Inter;
+         font-size: 18px;
+         font-weight: 500;
+         line-height: 30px;
+         text-align: center;
+         
+     }
+     .CardPrice{
+         font-family: Space Grotesk;
+         font-size: 58px;
+         font-weight: 700;
+         line-height: 72px;
+         text-align: center;
+         
+     }
+     
+     
+     .CardTitle{
+         margin-left: 50px;
+         font-family: Inter;
+         font-size: 18px;
+         font-weight: 600;
+         line-height: 32px;
+         text-align: center;    
+     }
+     .CardTitleTex{
+         font-family: Inter;
+         font-size: 15px;
+         font-weight: 400;
+         line-height: 20px;
+         text-align: center;
+         
+     }

@@ -1,0 +1,72 @@
+
+
+.review{
+     padding-left: 60px; 
+}
+.good-xp{
+     font-size: 60px;
+     padding-top: 60px ;
+     font-weight: 800;
+
+}
+
+.review-text-1{
+     font-size: 18px;
+     font-weight: 700;
+     padding-top: 20px;
+}
+
+.review-text-2{
+     margin-left: 50px;
+     font-size: 18px;
+     font-weight: 700;
+     padding-top: 20px;
+}
+.review-p{
+     font-size: 25px;
+
+}
+
+.review{
+     padding-top: -10px;
+     margin-top: -10px;
+     padding-bottom: 40px;
+}
+.Main-Review {
+
+    
+     top: 3144px;
+     height: 650px;
+     border-radius: 400px;
+     
+     background-color: black;
+     color: #FAFAFA;
+}
+.sp{
+     height: 340px;
+     background-color: black;
+}
+
+
+
+ 
+ 
+ .Site-text-2{
+     font-size: 45px;
+     color: rgb(100, 102, 102);
+     margin-left: 225px;
+
+
+ }
+ .Site-image-1{
+     width: 100%;
+     size: 20px;
+     margin-left: 220px;
+
+
+ }
+ .Site-image-2{
+     margin-left: 220px;
+
+
+ }
